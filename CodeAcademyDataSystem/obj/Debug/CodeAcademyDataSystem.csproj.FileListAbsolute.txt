@@ -1,0 +1,10 @@
+C:\Users\Dr.Rashad\source\repos\CodeAcademyDataSystem\CodeAcademyDataSystem\bin\Debug\CodeAcademyDataSystem.exe.config
+C:\Users\Dr.Rashad\source\repos\CodeAcademyDataSystem\CodeAcademyDataSystem\bin\Debug\CodeAcademyDataSystem.exe
+C:\Users\Dr.Rashad\source\repos\CodeAcademyDataSystem\CodeAcademyDataSystem\bin\Debug\CodeAcademyDataSystem.pdb
+C:\Users\Dr.Rashad\source\repos\CodeAcademyDataSystem\CodeAcademyDataSystem\obj\Debug\CodeAcademyDataSystem.csprojResolveAssemblyReference.cache
+C:\Users\Dr.Rashad\source\repos\CodeAcademyDataSystem\CodeAcademyDataSystem\obj\Debug\CodeAcademyDataSystem.Form1.resources
+C:\Users\Dr.Rashad\source\repos\CodeAcademyDataSystem\CodeAcademyDataSystem\obj\Debug\CodeAcademyDataSystem.Properties.Resources.resources
+C:\Users\Dr.Rashad\source\repos\CodeAcademyDataSystem\CodeAcademyDataSystem\obj\Debug\CodeAcademyDataSystem.csproj.GenerateResource.Cache
+C:\Users\Dr.Rashad\source\repos\CodeAcademyDataSystem\CodeAcademyDataSystem\obj\Debug\CodeAcademyDataSystem.csproj.CoreCompileInputs.cache
+C:\Users\Dr.Rashad\source\repos\CodeAcademyDataSystem\CodeAcademyDataSystem\obj\Debug\CodeAcademyDataSystem.exe
+C:\Users\Dr.Rashad\source\repos\CodeAcademyDataSystem\CodeAcademyDataSystem\obj\Debug\CodeAcademyDataSystem.pdb
